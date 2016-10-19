@@ -21,7 +21,6 @@ except ImportError:
 SCOPES = 'https://www.googleapis.com/auth/calendar'
 CLIENT_SECRET_FILE = 'client_secret.json'
 APPLICATION_NAME = 'Google Calendar API Python Quickstart'
-EVENT_ID = '_copj6dj3c4qjec336gp64opg71gj0db56pj6cp9n6dijecb368p40q39e9inctb55phmur8'
 TIME_ZONE = 'Europe/Warsaw'
 CALENDAR = 'api-test-calendar'
 
